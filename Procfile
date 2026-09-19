@@ -1,1 +1,1 @@
-worker: python goo_bot.py
+worker: python main.py
